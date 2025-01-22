@@ -16,7 +16,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #800020;
+	background: blue;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -272,7 +272,7 @@ body {
    /* Add hover animation on navbar submenu items */
    .navbar-inverse .navbar-nav > li > .dropdown-menu li > a:hover,
    .navbar-inverse .navbar-nav > li > .dropdown-menu li > a:focus {
-     background-color: #800020 !important;
+     background-color: #ece9ea !important;
      color: #ffffff !important;
    }
 
@@ -457,8 +457,8 @@ background-image: url(https://ununsplash.imgix.net/photo-1416339276121-ba1dfa199
 
 /* Set the background color and border color for the inverse navbar */
 .navbar-inverse {
-  background-color: #800020;
-  border-color: #800020;
+  background-color: #f5f1f2;
+  border-color: #3600ca;
 }
 
 /* Set the color for the navbar brand and navigation links in the inverse navbar */
@@ -621,7 +621,7 @@ background-image: url(https://ununsplash.imgix.net/photo-1416339276121-ba1dfa199
 
   /* Set the background color for the navbar collapse menu on mobile devices */
   .navbar-inverse .navbar-collapse {
-    background-color: #800020;
+    background-color: #ffffff;
   }
 
   /* Set the background color for the dropdown menu within the navbar collapse on mobile devices */
