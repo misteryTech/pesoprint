@@ -74,7 +74,7 @@
                 <h4 class="modal-title" id="loginModalLabel">Login</h4>
               </div>
               <div class="modal-body">
-                <form action="" method="POST">
+                <form action="process/login-process.php" method="POST">
                   <div class="form-group">
                     <label for="email">Email</label>
                     <input type="email" name="email" class="form-control" id="email" placeholder="Enter your email">
